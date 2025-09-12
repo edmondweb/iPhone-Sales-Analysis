@@ -7,16 +7,20 @@ This project is aimed at analyzing the sales data of iPhones in India using a da
 
 -----------------
 
-* [Project Overview](#project-overview)
-* [Dataset](#dataset)
-* [Dependencies](#dependencies)
-* [Code Overview](#code overview)
-  * [Data Loading](#data loading)
-  * [Data Cleaning](#data cleaning)
-  * [Descriptive Statistics](#descriptive statistics)
-  * [Data Visualization](#data visualization)
-* [How to Run](#how to run)
-* [License](#license)
+- [Project Overview](#project-overview)
+- [Dataset](#dataset)
+- [Dependencies](#dependencies)
+- [Code Overview](#code overview)
+  
+  [Data Loading](#data loading)
+  
+  [Data Cleaning](#data cleaning)
+  
+  [Descriptive Statistics](#descriptive statistics)
+  
+  [Data Visualization](#data visualization)
+- [How to Run](#how to run)
+- [License](#license)
 
 Project Overview
 ----------------
