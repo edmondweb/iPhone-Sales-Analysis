@@ -11,17 +11,17 @@ This project is aimed at analyzing the sales data of iPhones in India using a da
 
 - [Dependencies](#dependencies)
 
-- [Code Overview](#code overview)
+- [Code Overview](#codeoverview)
+  
+  - [Data Loading](#dataloading)
+  
+  - [Data Cleaning](#datacleaning)
+  
+  - [Descriptive Statistics](#descriptivestatistics)
+  
+  - [Data Visualizations](#datavisualization)
 
-- [Data Loading](#data loading)
-
-- [Data Cleaning](#data cleaning)
-
-- [Descriptive Statistics](#descriptive statistics)
-
-- [Data Visualization](#data visualization)
-
-- [How to Run](#how to run)
+- [How to Run](#howtorun)
 
 - [License](#license)
 
@@ -177,5 +177,3 @@ This project is licensed under the MIT License. See the [LICENSE file](https://o
 ---------
 
 Feel free to make modifications or improvements to the analysis and visualizations!
-
-
