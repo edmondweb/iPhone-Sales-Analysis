@@ -28,7 +28,9 @@ This project is aimed at analyzing the sales data of iPhones in India using a da
 Project Overview
 ----------------
 
-Apple iPhones are among the top-selling smartphones globally. Despite intense competition in the Indian smartphone market, where you can find smartphones with similar features for a fraction of the price, iPhones maintain strong sales. This project investigates the factors contributing to the success of iPhones on Flipkart, India’s largest e-commerce platform. Using the dataset, we explore:
+Apple iPhones are among the top-selling smartphones globally. Despite intense competition in the Indian smartphone market, where you can find smartphones with similar features for a fraction of the price, iPhones maintain strong sales. This project investigates the factors contributing to the success of iPhones on Flipkart, India’s largest e-commerce platform. 
+
+Using the dataset, we explore:
 
 * The highest-rated iPhones on Flipkart.
 
