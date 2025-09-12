@@ -76,8 +76,6 @@ pip install pandas numpy plotly statsmodels
 
 ## Code Overview
 
-
-
 ### Data Loading
 
 The dataset is loaded using the `pandas` library from a CSV file.
